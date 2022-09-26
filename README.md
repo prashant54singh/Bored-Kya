@@ -1,6 +1,6 @@
 
 # Bored-Kya?
-## A web app made with Bored API which suggests different types of activities upon user request
+## A web app made with Bored API which suggests different types of activities upon user request and fetches Trending Youtube videos for that.
 
 ### Home Page
 ![local](https://github.com/prashant54singh/Bored-Kya/blob/main/Screenshot%20(48).png?raw=true)  
